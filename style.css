@@ -75,3 +75,10 @@ form {
 	width: 400px;
 	text-align: center;
 }
+
+#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: center;
+    padding: 10px 0 10px 3%;
+}
