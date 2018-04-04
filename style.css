@@ -76,9 +76,9 @@ form {
 	text-align: center;
 }
 
-#mc_embed_signup form {
+#mc_embed_signup {
     display: block;
     position: relative;
     text-align: center;
-    padding: 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
