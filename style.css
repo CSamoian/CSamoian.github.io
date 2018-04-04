@@ -73,6 +73,7 @@ form {
 	display: inline;
 }
 
-.validate {
+#mc_embed_signup form {
 	text-align: center;
+
 }
